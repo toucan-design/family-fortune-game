@@ -1,25 +1,25 @@
 const questiondata = [{
-    "question": "Name a country that's name starts with the letter A",
+    "question": "Name a Bad Job for Someone Who's Accident-Prone",
     "answers": [{
-      "answer": "Australia",
+      "answer": "Driver",
       "points": 26
     }, {
-      "answer": "Afghanistan",
+      "answer": "Construction",
       "points": 21
     }, {
-      "answer": "America",
+      "answer": "Police Officer",
       "points": 18
     }, {
-      "answer": "Albania",
+      "answer": " Food Service",
       "points": 13
     }, {
-      "answer": "Algeria",
+      "answer": "Glass Maker",
       "points": 6
     }, {
-      "answer": "Argentina",
+      "answer": "Window Washer",
       "points": 4
     }, {
-      "answer": "Armenia",
+      "answer": "Surgeon",
       "points": 2
     }]
   },
